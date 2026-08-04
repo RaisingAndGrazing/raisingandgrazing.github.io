@@ -1,0 +1,11 @@
+file 'C:/Users/SHOCK/dev/agi-station/marketing_site/video_assets/product_images/01-4549710185.jpg'
+duration 3
+file 'C:/Users/SHOCK/dev/agi-station/marketing_site/video_assets/product_images/02-4549710133.jpg'
+duration 3
+file 'C:/Users/SHOCK/dev/agi-station/marketing_site/video_assets/product_images/03-4548496317.jpg'
+duration 3
+file 'C:/Users/SHOCK/dev/agi-station/marketing_site/video_assets/product_images/04-4548511344.jpg'
+duration 3
+file 'C:/Users/SHOCK/dev/agi-station/marketing_site/video_assets/product_images/05-4548077433.jpg'
+duration 3
+file 'C:/Users/SHOCK/dev/agi-station/marketing_site/video_assets/product_images/05-4548077433.jpg'

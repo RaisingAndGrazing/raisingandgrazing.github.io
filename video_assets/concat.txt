@@ -1,0 +1,7 @@
+file '01-sweatshirt-reading-nook.png'
+duration 4
+file '02-soft-life-home-office.png'
+duration 4
+file '03-mug-kitchen-morning.png'
+duration 4
+file '03-mug-kitchen-morning.png'
